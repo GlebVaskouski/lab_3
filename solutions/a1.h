@@ -1,4 +1,5 @@
 #pragma once
+
 #include <vector>
  bool AreMatricesIdentical(const std::vector<std::vector<int>>& first_vector, const std::vector<std::vector<int>>& second_vector) {
     for(int i = 0; i < first_vector.size(); i++)
